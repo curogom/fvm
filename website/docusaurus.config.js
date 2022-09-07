@@ -11,7 +11,7 @@ module.exports = {
   projectName: 'FVM', // Usually your repo name.
   
   i18n: {
-    defaultLocale: "en",
+    defaultLocale: "ko",
     locales: ["en", "es", "ko"],
   },
   themeConfig: {
